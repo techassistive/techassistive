@@ -217,12 +217,10 @@ azul{
 }
 
 .planos .box-planos > p{
-    color: #777;
+    max-width: 500px;
+    margin: 10px auto;
     text-align: center;
-    display: inline-block;
-    padding-bottom: 25px;
-    font-size: 20px;
-    border-top: 2px solid #777;
+    color: rgba(140, 140, 140);
 }   
 
 .planos .box-planos .items{
